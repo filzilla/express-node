@@ -15,5 +15,8 @@
     "url": "https://github.com/filzilla/express-node/issues"
   },
   "homepage": "https://github.com/filzilla/express-node#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
